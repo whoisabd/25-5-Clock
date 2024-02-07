@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/25-5-Clock/static/css/main.46f8edfc.css",
+    "main.js": "/25-5-Clock/static/js/main.c6f02b50.js",
+    "static/js/592.e0a60b40.chunk.js": "/25-5-Clock/static/js/592.e0a60b40.chunk.js",
+    "static/media/Beep Buzzer Fail.wav": "/25-5-Clock/static/media/Beep Buzzer Fail.c9e53d6b4ff73beb1874.wav",
+    "index.html": "/25-5-Clock/index.html",
+    "static/media/Play.svg": "/25-5-Clock/static/media/Play.00dd357e2759c12e48bb2ff192b9b229.svg",
+    "static/media/Reset.svg": "/25-5-Clock/static/media/Reset.99fbb01d40469b60bf075977facfd76f.svg",
+    "static/media/Minus.svg": "/25-5-Clock/static/media/Minus.637aaa07c88d366601ffddb3428f03e2.svg",
+    "static/media/Pause icon.svg": "/25-5-Clock/static/media/Pause icon.aaf0a475e5dfdd501c00d047c9f02a0a.svg",
+    "static/media/Plus.svg": "/25-5-Clock/static/media/Plus.72bb3d5babe6240f2f9d1ef0bc012cd1.svg",
+    "main.46f8edfc.css.map": "/25-5-Clock/static/css/main.46f8edfc.css.map",
+    "main.c6f02b50.js.map": "/25-5-Clock/static/js/main.c6f02b50.js.map",
+    "592.e0a60b40.chunk.js.map": "/25-5-Clock/static/js/592.e0a60b40.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46f8edfc.css",
+    "static/js/main.c6f02b50.js"
+  ]
+}
